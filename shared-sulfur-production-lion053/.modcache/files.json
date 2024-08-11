@@ -1,0 +1,88 @@
+{
+  "files": {
+    "d:\\Tools\\Workbench\\Repos\\lion-shared-mods\\shared-sulfur-production-lion053\\data\\graphics\\mod_buildings\\sulfur_pit\\maps\\sulfur_pit_building_diff.png": {
+      "sha": "73de767d8848b069c3ddac15490e9689bb5b86ffdd94203e781e4336450e6c85",
+      "output": {
+        "D:\\Spiele\\Ubisoft\\Anno 1800\\mods\\[Shared] Sulfur Production (Lion053)\\data\\graphics\\mod_buildings\\sulfur_pit\\maps\\sulfur_pit_building_diff_0.dds": {
+          "sha": "fb133300c54607a857938598b175e138b0440d2fafad646e522f2c17f4371d0b"
+        },
+        "D:\\Spiele\\Ubisoft\\Anno 1800\\mods\\[Shared] Sulfur Production (Lion053)\\data\\graphics\\mod_buildings\\sulfur_pit\\maps\\sulfur_pit_building_diff_1.dds": {
+          "sha": "a372d0347e71376aa4d1d27f9d1d6881b21fdc82de4bebdece77fe3069bed111"
+        },
+        "D:\\Spiele\\Ubisoft\\Anno 1800\\mods\\[Shared] Sulfur Production (Lion053)\\data\\graphics\\mod_buildings\\sulfur_pit\\maps\\sulfur_pit_building_diff_2.dds": {
+          "sha": "c84ee1d79d26bda65236b9c33abd9a43d7299bef6fc93d72496a77a726e95395"
+        }
+      }
+    },
+    "d:\\Tools\\Workbench\\Repos\\lion-shared-mods\\shared-sulfur-production-lion053\\data\\graphics\\mod_buildings\\sulfur_pit\\maps\\sulfur_pit_ground_diff.png": {
+      "sha": "2841f33d36385e9ac30c7ca79461a77f847bdbe9dcf740a6f89f0eeb45317de8",
+      "output": {
+        "D:\\Spiele\\Ubisoft\\Anno 1800\\mods\\[Shared] Sulfur Production (Lion053)\\data\\graphics\\mod_buildings\\sulfur_pit\\maps\\sulfur_pit_ground_diff_0.dds": {
+          "sha": "d5a7e85f7c25245be18224f90201811f686014657bcaff2fcd53ffe636df3996"
+        },
+        "D:\\Spiele\\Ubisoft\\Anno 1800\\mods\\[Shared] Sulfur Production (Lion053)\\data\\graphics\\mod_buildings\\sulfur_pit\\maps\\sulfur_pit_ground_diff_1.dds": {
+          "sha": "86ec56fccfb7f3eb976762d4c68e0f45ff0b10510b3eceb1d5098f862272e2d4"
+        },
+        "D:\\Spiele\\Ubisoft\\Anno 1800\\mods\\[Shared] Sulfur Production (Lion053)\\data\\graphics\\mod_buildings\\sulfur_pit\\maps\\sulfur_pit_ground_diff_2.dds": {
+          "sha": "1507aa6458a65c6f9654e8c547ed28c47a3225cddf797e94757239344b86f775"
+        }
+      }
+    },
+    "d:\\Tools\\Workbench\\Repos\\lion-shared-mods\\shared-sulfur-production-lion053\\data\\graphics\\mod_buildings\\sulfur_pit\\maps\\sulfur_pit_hole_diff.png": {
+      "sha": "7137dab76474a1ee3bb893aed47870251d85b64776b75e5344181a3511a89738",
+      "output": {
+        "D:\\Spiele\\Ubisoft\\Anno 1800\\mods\\[Shared] Sulfur Production (Lion053)\\data\\graphics\\mod_buildings\\sulfur_pit\\maps\\sulfur_pit_hole_diff_0.dds": {
+          "sha": "e7a0574b9f6248edc912d04d54a9ef45372521bf81e963442d5b282d7b8b9a3c"
+        },
+        "D:\\Spiele\\Ubisoft\\Anno 1800\\mods\\[Shared] Sulfur Production (Lion053)\\data\\graphics\\mod_buildings\\sulfur_pit\\maps\\sulfur_pit_hole_diff_1.dds": {
+          "sha": "a0f3d46a7013e4d372125badc5367762d3cbb9bf4a7599ec47825fd52e186e54"
+        },
+        "D:\\Spiele\\Ubisoft\\Anno 1800\\mods\\[Shared] Sulfur Production (Lion053)\\data\\graphics\\mod_buildings\\sulfur_pit\\maps\\sulfur_pit_hole_diff_2.dds": {
+          "sha": "d7a503d74e9a8f58f47cb73567ab1c6c89f88e526da8475ddeffe86af7aaad9d"
+        }
+      }
+    },
+    "d:\\Tools\\Workbench\\Repos\\lion-shared-mods\\shared-sulfur-production-lion053\\data\\graphics\\mod_buildings\\sulfur_pit\\maps\\sulfur_pit_planks_diff.png": {
+      "sha": "e31e8fb698a15adc94afd6fdae02c451b345abc982b5ea407eeda69149c902c0",
+      "output": {
+        "D:\\Spiele\\Ubisoft\\Anno 1800\\mods\\[Shared] Sulfur Production (Lion053)\\data\\graphics\\mod_buildings\\sulfur_pit\\maps\\sulfur_pit_planks_diff_0.dds": {
+          "sha": "fde7e5a2fc1cd165196d1332fc7fb697c26c9ee9e89748f84fb5f5f8988c5358"
+        },
+        "D:\\Spiele\\Ubisoft\\Anno 1800\\mods\\[Shared] Sulfur Production (Lion053)\\data\\graphics\\mod_buildings\\sulfur_pit\\maps\\sulfur_pit_planks_diff_1.dds": {
+          "sha": "f5d293ec314ba9d8c98804c97042f5345f537c5a8323d58aace88310b7136555"
+        },
+        "D:\\Spiele\\Ubisoft\\Anno 1800\\mods\\[Shared] Sulfur Production (Lion053)\\data\\graphics\\mod_buildings\\sulfur_pit\\maps\\sulfur_pit_planks_diff_2.dds": {
+          "sha": "ef084cea0574e0c6b775b6850ea89961edb1a4c43daa67060d9271ee1c53b6a2"
+        }
+      }
+    },
+    "d:\\Tools\\Workbench\\Repos\\lion-shared-mods\\shared-sulfur-production-lion053\\data\\graphics\\mod_buildings\\sulfur_pit\\maps\\sulfur_pit_stairs_diff.png": {
+      "sha": "659dd9585a1d5c69ae2fc0a421f5f255e6481add64653c888e233ea2ef337fe4",
+      "output": {
+        "D:\\Spiele\\Ubisoft\\Anno 1800\\mods\\[Shared] Sulfur Production (Lion053)\\data\\graphics\\mod_buildings\\sulfur_pit\\maps\\sulfur_pit_stairs_diff_0.dds": {
+          "sha": "74256f77cd415d32607a8321b27974593eaa8934f10d9eda5c69e33f36a6a011"
+        },
+        "D:\\Spiele\\Ubisoft\\Anno 1800\\mods\\[Shared] Sulfur Production (Lion053)\\data\\graphics\\mod_buildings\\sulfur_pit\\maps\\sulfur_pit_stairs_diff_1.dds": {
+          "sha": "a43c1466d778c4b61c54b2c23d212cf718c4a4ee74bb038aad0833ce05842331"
+        },
+        "D:\\Spiele\\Ubisoft\\Anno 1800\\mods\\[Shared] Sulfur Production (Lion053)\\data\\graphics\\mod_buildings\\sulfur_pit\\maps\\sulfur_pit_stairs_diff_2.dds": {
+          "sha": "dc5e57c548d93caeb4eacb5a9bb8bd891f6d07b02fe29fc3493ccdb8fc9c9013"
+        }
+      }
+    },
+    "d:\\Tools\\Workbench\\Repos\\lion-shared-mods\\shared-sulfur-production-lion053\\data\\ui\\2kimages\\main\\3dicons\\sulfur_production\\icon_sulfur.png": {
+      "sha": "570ae7bc4d35bd79d8141851169d7f1eac269e9c7ed2bfadec699b7f840414ee",
+      "output": {
+        "D:\\Spiele\\Ubisoft\\Anno 1800\\mods\\[Shared] Sulfur Production (Lion053)\\data\\ui\\2kimages\\main\\3dicons\\sulfur_production\\icon_sulfur_0.dds": {
+          "sha": "d0bf55d551305e4c1c5dc6005195c962f3db0ecd9017d00eebbcc4ce1a40f810"
+        },
+        "D:\\Spiele\\Ubisoft\\Anno 1800\\mods\\[Shared] Sulfur Production (Lion053)\\data\\ui\\2kimages\\main\\3dicons\\sulfur_production\\icon_sulfur_1.dds": {
+          "sha": "64cf14482aa579da4fda78525c8154f88610c03d6e53dca6ef8d97dc64357985"
+        },
+        "D:\\Spiele\\Ubisoft\\Anno 1800\\mods\\[Shared] Sulfur Production (Lion053)\\data\\ui\\2kimages\\main\\3dicons\\sulfur_production\\icon_sulfur_2.dds": {
+          "sha": "fa5f7a9ab4f0e48d1874fb9bcb5eb521c8a48a3a800c07e42935e004f23556be"
+        }
+      }
+    }
+  }
+}

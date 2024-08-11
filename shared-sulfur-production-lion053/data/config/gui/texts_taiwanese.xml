@@ -17,9 +17,8 @@
 			<Text>当这个模块放置在旧世界铁、铜、锌矿采矿场的旁边时，它们会产生额外的硫。需要煤作为输入。&#xA;&#xD;&#xA;&#xD;&lt;font overrideTextColor="true" color='#2d7fb8'&gt;需要&lt;/font&gt;&lt;font overrideTextColor="true" color='#edc891'&gt;每轮(01:30):&lt;/font&gt;&#xD;&#xA;&lt;font overrideTextColor="true" color='#edc891'&gt;1t &lt;img height='24' width='24' src="[AssetData(1010304) Icon]"/&gt; [AssetData(1010226) Text]&lt;/font&gt;</Text>
 		</Text>
 		<Text>
-			<!-- TODO translation -->
 			<GUID>1500302350</GUID>
-			<Text>Iron, and bauxit mines produce sulfur as extra output, when this module is placed next to them. Requires coal as input.&#xA;&#xD;&#xA;&#xD;&lt;font overrideTextColor="true" color='#2d7fb8'&gt;Demand&lt;/font&gt;&lt;font overrideTextColor="true" color='#edc891'&gt; per Cycle (01:30):&lt;/font&gt;&#xD;&#xA;&lt;font overrideTextColor="true" color='#edc891'&gt;1t &lt;img height='24' width='24' src="[AssetData(1010304) Icon]"/&gt; [AssetData(1010226) Text]&lt;/font&gt;</Text>
+			<Text>當此模組放置在鐵礦和鋁土礦旁邊時，它們會產生硫磺作為額外的輸出。需要煤作為輸入。&#xA;&#xD;&#xA;&#xD;&lt;font overrideTextColor="true" color='#2d7fb8'&gt;Demand&lt;/font&gt;&lt;font overrideTextColor="true" color='#edc891'&gt; per Cycle (01:30):&lt;/font&gt;&#xD;&#xA;&lt;font overrideTextColor="true" color='#edc891'&gt;1t &lt;img height='24' width='24' src="[AssetData(1010304) Icon]"/&gt; [AssetData(1010226) Text]&lt;/font&gt;</Text>
 		</Text>
 		<Text>
 			<GUID>2100115092</GUID>
@@ -34,13 +33,32 @@
 			<Text>铁、铜和锌矿石经过几个小时的焙烧可以得到二氧化硫。</Text>
 		</Text>
 		<Text>
-			<!-- TODO translation -->
 			<GUID>1500302352</GUID>
-			<Text>Sulfur dioxide can be obtained from sulfidic iron and bauxit ores by roasting them for several hours.</Text>
+			<Text>二氧化硫可從含硫鐵礦石及鋁土礦石中通過焙燒幾個小時獲得。</Text>
 		</Text>
 		<Text>
 			<GUID>2100115721</GUID>
 			<Text>Sulfur Module Fake</Text> <!-- no translation needed -->
+		</Text>
+		<Text>
+			<GUID>1500302570</GUID>
+			<Text>硫磺坑</Text>
+		</Text>
+		<Text>
+			<GUID>1500302572</GUID>
+			<Text>用盡的存款</Text>
+		</Text>
+		<Text>
+			<GUID>1500302573</GUID>
+			<Text>如果建了超過 5 個硫磺礦坑，島上的儲量就會耗盡，以至所有礦坑都停止運作。</Text>
+		</Text>
+		<Text>
+			<GUID>1500302574</GUID>
+			<Text>[AssetData(11143) Text]&#xA;&#xD;&#xA;&#xD;&lt;b&gt;[AssetData(1500302573) Text]&lt;/b&gt;</Text>
+		</Text>
+		<Text>
+			<GUID>1500302359</GUID>
+			<Text>Sulfur Production (Lion053)</Text>
 		</Text>
 
   </ModOp>
