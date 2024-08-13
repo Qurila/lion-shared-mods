@@ -1,8 +1,15 @@
 {
-  "Version": "1.1",
+  "Version": "1.2",
   "ModID": "shared-sulfur-production-lion053",
+  "LoadAfterIds": [
+    "shared-pools-and-definitions"
+   ],
+   "ModDependencies": [
+    "shared-pools-and-definitions",
+    "ObjectDummies_Serp",
+    "shared_Matchers_Serp"
+   ],
   "IncompatibleIds": [],
-  "ModDependencies": null,
   "DeprecateIds": null,
 
   "Category": {

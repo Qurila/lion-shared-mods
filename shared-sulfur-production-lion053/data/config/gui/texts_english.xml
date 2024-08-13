@@ -40,6 +40,26 @@
 			<GUID>2100115721</GUID>
 			<Text>Sulfur Module Fake</Text> <!-- no translation needed -->
 		</Text>
+		<Text>
+			<GUID>1500302570</GUID>
+			<Text>Sulfur Pit</Text>
+		</Text>
+		<Text>
+			<GUID>1500302572</GUID>
+			<Text>Exhausted deposit</Text>
+		</Text>
+		<Text>
+			<GUID>1500302573</GUID>
+			<Text>If more than 5 sulfur pits are built, the island's reserves are depleted to such an extent that all pits cease to function.</Text>
+		</Text>
+		<Text>
+			<GUID>1500302574</GUID>
+			<Text>[AssetData(11143) Text]&#xA;&#xD;&#xA;&#xD;&lt;b&gt;[AssetData(1500302573) Text]&lt;/b&gt;</Text>
+		</Text>
+		<Text>
+			<GUID>1500302359</GUID>
+			<Text>Sulfur Production (Lion053)</Text>
+		</Text>
 
   </ModOp>
 
