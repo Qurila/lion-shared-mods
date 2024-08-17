@@ -6,6 +6,22 @@ Download from the release section and put the mod into your mod at `/data` level
 
 Alternatively, if you use the "Build & Deploy" feature from the Visual Studio Code Anno Plugin, you can add the urls shown below to your `ModDependencies` in your `modinfo.json`: 
 
+## Sulfur Production (Lion053)
+
+Sulfur can be obtained by building Sulfur Modules next to iron, copper, zinc or bauxit mines. 
+The sulfur module requires coal as an input, increases the required workforce of the mine by 10 % and buffs the mine to produce a sulfur unit after 3 cycles.
+The sulfur pit can be built in Enbesa. You will be charged with a debuff if you built too many (>5) sulfur pits per island.
+
+⚠ Attention: This mod has *shared-pools-and-definitions*, *ObjectDummies_Serp* and *shared_Matchers_Serp* as dependencies. Please add these mods to your mod as well.
+
+ModID: `shared-sulfur-production-lion053`
+
+```json
+"ModDependencies": [
+  "https://github.com/lion053/shared-mods/releases/download/v1.0/shared-small-elevator-factory-lion053.zip"
+]
+```
+
 ## Small Elevator Factory (Lion053)
 
 This mod brings a small elevator factory to the game. This way modded buildings can have elevators as a construction material without being dependent on the HighLife-DLC (DLC-09). If DLC-09 is not owned / active, the building is unlocked at 5.000 investors. If DLC-09 is active, the building is unlocked as soon as the original elevator factory from DLC-09 is built (in order to not break the related quests from Donny Bader). Menu location: Right after Steam Carriages. If DLC-09 is active, the factory is inserted into the original production chain. 
