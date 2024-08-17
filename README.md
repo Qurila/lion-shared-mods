@@ -18,7 +18,7 @@ ModID: `shared-sulfur-production-lion053`
 
 ```json
 "ModDependencies": [
-  "https://github.com/lion053/shared-mods/releases/download/v1.0/shared-small-elevator-factory-lion053.zip"
+  "https://github.com/lion053/shared-mods/releases/download/v1.2/shared-sulfur-production-lion053.zip"
 ]
 ```
 
@@ -33,7 +33,7 @@ ModID: `shared-small-elevator-factory-lion053`
 ![Small_Elevator_Factory](/sources/small_elevator_factory.png)
 ```json
 "ModDependencies": [
-  "https://github.com/lion053/shared-mods/releases/download/v1.0/shared-small-elevator-factory-lion053.zip"
+  "https://github.com/lion053/shared-mods/releases/download/v1.2/shared-small-elevator-factory-lion053.zip"
 ]
 ```
 
@@ -46,7 +46,7 @@ ModID: `shared-milk-from-cattle-farm-lion053`
 ![Cattle Pasture](/sources/cattle_pasture.png)
 ```json
 "ModDependencies": [
-  "https://github.com/lion053/shared-mods/releases/download/v1.0/shared-milk-from-cattle-farm-lion053.zip"
+  "https://github.com/lion053/shared-mods/releases/download/v1.2/shared-milk-from-cattle-farm-lion053.zip"
 ]
 ```
 
@@ -62,6 +62,6 @@ ModID: `shared-infotip-fix-tourist-buildings-lion053`
 
 ```json
 "ModDependencies": [
-  "https://github.com/lion053/shared-mods/releases/download/v1.0/shared-infotip-fix-tourist-buildings-lion053.zip"
+  "https://github.com/lion053/shared-mods/releases/download/v1.2/shared-infotip-fix-tourist-buildings-lion053.zip"
 ]
 ```
