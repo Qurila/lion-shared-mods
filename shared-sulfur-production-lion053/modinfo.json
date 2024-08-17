@@ -1,5 +1,5 @@
 {
-  "Version": "1.2",
+  "Version": "1.3",
   "ModID": "shared-sulfur-production-lion053",
   "LoadAfterIds": [
     "shared-pools-and-definitions"

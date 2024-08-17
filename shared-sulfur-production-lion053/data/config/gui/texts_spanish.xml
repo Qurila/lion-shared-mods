@@ -14,11 +14,11 @@
 		</Text>
 		<Text>
 			<GUID>2100115091</GUID>
-			<Text>Minas de hierro, cobre y Zinc producen azufre como producto derivado cuando este módulo es añadido. Consume carbón.&#xA;&#xD;&#xA;&#xD;&lt;font overrideTextColor="true" color='#2d7fb8'&gt;Demand&lt;/font&gt;&lt;font overrideTextColor="true" color='#edc891'&gt; per Cycle (01:30):&lt;/font&gt;&#xD;&#xA;&lt;font overrideTextColor="true" color='#edc891'&gt;1t &lt;img height='24' width='24' src="[AssetData(1010304) Icon]"/&gt; [AssetData(1010226) Text]&lt;/font&gt;</Text>
+			<Text>Minas de hierro, cobre y Zinc producen azufre como producto derivado cuando este módulo es añadido. Consume carbón.</Text>
 		</Text>
 		<Text>
 			<GUID>1500302350</GUID>
-			<Text>Las minas de hierro y bauxita producen azufre como producto extra cuando este módulo se coloca junto a ellas. Requiere carbón como insumo.&#xA;&#xD;&#xA;&#xD;&lt;font overrideTextColor="true" color='#2d7fb8'&gt;Demand&lt;/font&gt;&lt;font overrideTextColor="true" color='#edc891'&gt; per Cycle (01:30):&lt;/font&gt;&#xD;&#xA;&lt;font overrideTextColor="true" color='#edc891'&gt;1t &lt;img height='24' width='24' src="[AssetData(1010304) Icon]"/&gt; [AssetData(1010226) Text]&lt;/font&gt;</Text>
+			<Text>Las minas de hierro y bauxita producen azufre como producto extra cuando este módulo se coloca junto a ellas. Requiere carbón como insumo.</Text>
 		</Text>
 		<Text>
 			<GUID>2100115092</GUID>

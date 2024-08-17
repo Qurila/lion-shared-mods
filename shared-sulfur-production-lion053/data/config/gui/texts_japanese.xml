@@ -14,11 +14,11 @@
 		</Text>
 		<Text>
 			<GUID>2100115091</GUID>
-			<Text>鉄、銅、亜鉛鉱山の隣にこのモジュールを置くと、硫黄が追加生産される。入力として石炭を必要とする。&#xA;&#xD;&#xA;&#xD;&lt;font overrideTextColor="true" color='#2d7fb8'&gt;Demand&lt;/font&gt;&lt;font overrideTextColor="true" color='#edc891'&gt; per Cycle (01:30):&lt;/font&gt;&#xD;&#xA;&lt;font overrideTextColor="true" color='#edc891'&gt;1t &lt;img height='24' width='24' src="[AssetData(1010304) Icon]"/&gt; [AssetData(1010226) Text]&lt;/font&gt;</Text>
+			<Text>鉄、銅、亜鉛鉱山の隣にこのモジュールを置くと、硫黄が追加生産される。入力として石炭を必要とする。</Text>
 		</Text>
 		<Text>
 			<GUID>1500302350</GUID>
-			<Text>鉄鉱山とボーキサイト鉱山は、このモジュールが隣接している場合、追加出力として硫黄を生産する。入力として石炭を必要とする。&#xA;&#xD;&#xA;&#xD;&lt;font overrideTextColor="true" color='#2d7fb8'&gt;Demand&lt;/font&gt;&lt;font overrideTextColor="true" color='#edc891'&gt; per Cycle (01:30):&lt;/font&gt;&#xD;&#xA;&lt;font overrideTextColor="true" color='#edc891'&gt;1t &lt;img height='24' width='24' src="[AssetData(1010304) Icon]"/&gt; [AssetData(1010226) Text]&lt;/font&gt;</Text>
+			<Text>鉄鉱山とボーキサイト鉱山は、このモジュールが隣接している場合、追加出力として硫黄を生産する。入力として石炭を必要とする。</Text>
 		</Text>
 		<Text>
 			<GUID>2100115092</GUID>

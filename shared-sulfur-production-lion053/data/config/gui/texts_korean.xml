@@ -14,11 +14,11 @@
 		</Text>
 		<Text>
 			<GUID>2100115091</GUID>
-			<Text>철, 구리, 아연 광산은 이 모듈을 옆에 배치하면 추가 생산량으로 유황을 생산합니다. 입력으로 석탄이 필요합니다.&#xA;&#xD;&#xA;&#xD;&lt;font overrideTextColor="true" color='#2d7fb8'&gt;Demand&lt;/font&gt;&lt;font overrideTextColor="true" color='#edc891'&gt; per Cycle (01:30):&lt;/font&gt;&#xD;&#xA;&lt;font overrideTextColor="true" color='#edc891'&gt;1t &lt;img height='24' width='24' src="[AssetData(1010304) Icon]"/&gt; [AssetData(1010226) Text]&lt;/font&gt;</Text>
+			<Text>철, 구리, 아연 광산은 이 모듈을 옆에 배치하면 추가 생산량으로 유황을 생산합니다. 입력으로 석탄이 필요합니다.</Text>
 		</Text>
 		<Text>
 			<GUID>1500302350</GUID>
-			<Text>철 및 보크사이트 광산은 이 모듈을 옆에 배치하면 추가 생산량으로 유황을 생산합니다. 입력으로 석탄이 필요합니다.&#xA;&#xD;&#xA;&#xD;&lt;font overrideTextColor="true" color='#2d7fb8'&gt;Demand&lt;/font&gt;&lt;font overrideTextColor="true" color='#edc891'&gt; per Cycle (01:30):&lt;/font&gt;&#xD;&#xA;&lt;font overrideTextColor="true" color='#edc891'&gt;1t &lt;img height='24' width='24' src="[AssetData(1010304) Icon]"/&gt; [AssetData(1010226) Text]&lt;/font&gt;</Text>
+			<Text>철 및 보크사이트 광산은 이 모듈을 옆에 배치하면 추가 생산량으로 유황을 생산합니다. 입력으로 석탄이 필요합니다.</Text>
 		</Text>
 		<Text>
 			<GUID>2100115092</GUID>

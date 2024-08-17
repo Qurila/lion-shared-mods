@@ -14,11 +14,11 @@
 		</Text>
 		<Text>
 			<GUID>2100115091</GUID>
-			<Text>Eisen-, Kupfer- und Zinkminen produzieren Schwefel als Extraware, wenn dieses Modul neben ihnen errichtet wird. Benötigt Kohle als Input.&#xA;&#xD;&#xA;&#xD;&lt;font overrideTextColor="true" color='#2d7fb8'&gt;Nachfrage&lt;/font&gt;&lt;font overrideTextColor="true" color='#edc891'&gt; pro Zyklus (01:30):&lt;/font&gt;&#xD;&#xA;&lt;font overrideTextColor="true" color='#edc891'&gt;1t &lt;img height='24' width='24' src="[AssetData(1010304) Icon]"/&gt; [AssetData(1010226) Text]&lt;/font&gt;</Text>
+			<Text>Eisen-, Kupfer- und Zinkminen produzieren Schwefel als Extraware, wenn dieses Modul neben ihnen errichtet wird. Benötigt Kohle als Input.</Text>
 		</Text>
 		<Text>
 			<GUID>1500302350</GUID>
-			<Text>Eisen- und Bauxitminen produzieren Schwefel als Extraware, wenn dieses Modul neben ihnen errichtet wird. Benötigt Kohle als Input.&#xA;&#xD;&#xA;&#xD;&lt;font overrideTextColor="true" color='#2d7fb8'&gt;Demand&lt;/font&gt;&lt;font overrideTextColor="true" color='#edc891'&gt; per Cycle (01:30):&lt;/font&gt;&#xD;&#xA;&lt;font overrideTextColor="true" color='#edc891'&gt;1t &lt;img height='24' width='24' src="[AssetData(1010304) Icon]"/&gt; [AssetData(1010226) Text]&lt;/font&gt;</Text>
+			<Text>Eisen- und Bauxitminen produzieren Schwefel als Extraware, wenn dieses Modul neben ihnen errichtet wird. Benötigt Kohle als Input.</Text>
 		</Text>
 		<Text>
 			<GUID>2100115092</GUID>

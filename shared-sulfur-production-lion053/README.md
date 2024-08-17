@@ -6,7 +6,8 @@ Import with Docklands-DLC possible.
 
 ## Changes
 
-**1.0**
+**1.3**
 
-- Separated from OW Paper Mill mod to serve as a standalone shared mod
+- Fix: unable to build sulfur module due to doubled BuildingCategoryName
+- Adjustment: remove coal input / output text in construction menu infotips
 

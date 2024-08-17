@@ -14,11 +14,11 @@
 		</Text>
 		<Text>
 			<GUID>2100115091</GUID>
-			<Text>Le miniere di ferro, rame e zinco producono zolfo come output extra, quando questo modulo è posizionato accanto ad esse. Richiede carbone come input.&#xA;&#xD;&#xA;&#xD;&lt;font overrideTextColor="true" color='#2d7fb8'&gt;Demand&lt;/font&gt;&lt;font overrideTextColor="true" color='#edc891'&gt; per Cycle (01:30):&lt;/font&gt;&#xD;&#xA;&lt;font overrideTextColor="true" color='#edc891'&gt;1t &lt;img height='24' width='24' src="[AssetData(1010304) Icon]"/&gt; [AssetData(1010226) Text]&lt;/font&gt;</Text>
+			<Text>Le miniere di ferro, rame e zinco producono zolfo come output extra, quando questo modulo è posizionato accanto ad esse. Richiede carbone come input.</Text>
 		</Text>
 		<Text>
 			<GUID>1500302350</GUID>
-			<Text>Le miniere di ferro e di bauxite producono zolfo come output aggiuntivo, quando questo modulo è posizionato accanto ad esse. Richiede carbone come input.&#xA;&#xD;&#xA;&#xD;&lt;font overrideTextColor="true" color='#2d7fb8'&gt;Demand&lt;/font&gt;&lt;font overrideTextColor="true" color='#edc891'&gt; per Cycle (01:30):&lt;/font&gt;&#xD;&#xA;&lt;font overrideTextColor="true" color='#edc891'&gt;1t &lt;img height='24' width='24' src="[AssetData(1010304) Icon]"/&gt; [AssetData(1010226) Text]&lt;/font&gt;</Text>
+			<Text>Le miniere di ferro e di bauxite producono zolfo come output aggiuntivo, quando questo modulo è posizionato accanto ad esse. Richiede carbone come input.</Text>
 		</Text>
 		<Text>
 			<GUID>2100115092</GUID>
